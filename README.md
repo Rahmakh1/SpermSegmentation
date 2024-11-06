@@ -23,3 +23,15 @@ If you use the SegSperm dataset in your research, please cite:
   publisher={Elsevier}
 }
 doi: https://doi.org/10.1016/j.compbiomed.2023.107520
+
+
+Purpose and Impact
+Accurate sperm segmentation is crucial for various medical and research applications, including fertility studies, reproductive health, and cell morphology research. By automating sperm segmentation, this project aims to reduce manual workload, improve consistency in morphological analysis, and enable large-scale sperm analysis that would otherwise be time-consuming.
+
+The potential impact includes:
+
+Improving diagnostic tools in fertility studies.
+Facilitating large-scale analysis of sperm morphology, aiding in more extensive research on sperm quality.
+Encouraging further research in reproductive biology and medicine by providing a more accessible, automated approach.
+License
+This project is based on the SegSperm dataset, licensed under CC BY-NC 4.0, allowing for non-commercial use with attribution.
